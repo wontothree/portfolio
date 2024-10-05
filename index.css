@@ -82,27 +82,15 @@ html {
     flex-direction: column;
     justify-content: center;
     padding: 1rem;
+    align-items: center;
 }
 
 .box {
-    width: 50%; /* 너비를 100%로 설정하여 부모 요소에 맞춤 */
+    width: 45%; /* 너비를 100%로 설정하여 부모 요소에 맞춤 */
     margin: 2rem 0; /* 위쪽과 아래쪽 여백 */
     border: 1px solid #aaa;
     padding: 0 1rem;
     border-radius: 5px; /* 모서리 둥글게 */
-}
-
-.title {
-    text-align: center;
-}
-
-.list div a {
-    display: flex;
-    justify-content: space-between;
-}
-
-.list a {
-    color: #000;
 }
 
 .container {

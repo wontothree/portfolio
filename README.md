@@ -1,7 +1,7 @@
 
 # About
 
-No dependencies (no framework, no library) profile page
+No dependencies (no framework, no library) profile page.
 
 # Education
 
