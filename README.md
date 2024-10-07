@@ -3,20 +3,6 @@
 
 No dependencies (no framework, no library) profile page.
 
-# Education
-
-B.S.
-
-- Universify of Seoul
-- Mar. 2022 - Feb. 2026
-- Major : Electrical and Computer Engineering
-- Minor : Mathematics
-
-Control and Dynamic System Laboratory (CDSL)
-
-- Undergraduate Researcher
-- Mar. 2023 - Dec. 2024
-
 # Experience
 
 ### <span style="color: #2D3748; background-color:#fff5b1;">InBody Scale AI</span>
