@@ -95,4 +95,5 @@ html {
 
 .container {
     padding-top: 1rem;
-    line-hei
+    line-height: 1;
+}
