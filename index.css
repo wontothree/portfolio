@@ -74,6 +74,25 @@ html {
     }
 }
 
+/* box size according to smart phone screen  */
+@media (max-width: 1024px) {
+    .box {
+        width: 70%;
+    }
+}
+
+@media (max-width: 768px) {
+    .box {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .box {
+        width: 95%;
+    }
+}
+
 /* custom */
 .intro {
     width: fit-content;
