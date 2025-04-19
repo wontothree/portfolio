@@ -72,11 +72,6 @@ html {
     border-radius: 5px; /* 모서리 둥글게 */
 }
 
-/* .container {
-    padding-top: 1rem;
-    line-height: 1;
-} */
-
 /* box size according to screen size  */
 @media (max-width: 1024px) {
     .box {
