@@ -72,15 +72,15 @@ html {
 }
 
 /* box size according to screen size  */
-/* @media (max-width: 1024px) {
+@media (max-width: 1024px) {
     .box {
         width: 70%;
     }
-} */
+}
 
 @media (max-width: 768px) {
     .box {
-        width: 90%;
+        width: 92%;
     }
 }
 
