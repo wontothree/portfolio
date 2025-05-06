@@ -1,4 +1,4 @@
 
-# Simple Portfolio Page
+# Simple Career Page
 
-Profile page using no dependencies (no framework, no library), just javascript, html, and css
+Career page using no dependencies (no framework, no library), just javascript, html, and css
