@@ -21,3 +21,11 @@ Before
 ```
 
 After
+
+```html
+<a href="https://github.com/wontothree" aria-label="Github of Anthony Garcia" target="_blank" rel="noopener noreferrer">Github</a>
+```
+
+- aria-label="Github of Anthony Garcia" : there's no difference from before, but it's for screen reader.
+- target="_blank" : open the link in new tab.
+- rel="noopener noreferrer" : for scurity.
