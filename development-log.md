@@ -9,3 +9,15 @@ add header and footer
 move uos folder from route path to posts folder
 
 Concept of this page is for showing Sewon Kim as Engineer.
+
+*05/16/2025*
+
+Before
+
+```html
+<a href="https://github.com/wontothree">
+    <div>Github</div>
+</a>
+```
+
+After
